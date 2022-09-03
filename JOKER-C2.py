@@ -13,7 +13,7 @@ import urllib
 import json
 os.system("color 3")
 os.system(f"title V1 By VINZ")
-kevin = "Vinz505"
+kevin = "171008"
 
 for i in range(3):
     pwd = input("[V1] Masukan Password: ")
