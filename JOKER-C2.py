@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #-*- coding: utf-8 -*- and #-*- coding: utf-7 -*-
-#DangTri Developer
+#Vinz505 Developer
 from operator import index
 import sys
 import socket
