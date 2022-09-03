@@ -1,2 +1,2 @@
-JOKER DDOS TOOL BY DANGTRI (Vip 1 gia 20k)
-Buy tool ddos cfb,layer4,layer7,proxy,botnet,... Zalo (0337021245)
+JOKER DDOS TOOL BY VINZ505 (Vip 50k)
+Buy tool ddos cfb,layer4,layer7,proxy,botnet,... hubungi (085929939498)
